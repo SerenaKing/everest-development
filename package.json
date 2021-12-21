@@ -1,0 +1,29 @@
+{
+  "name": "everest-development",
+  "version": "1.0.0",
+  "description": "Bot for Everest Development roblox development group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerenaKing/everest-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerenaKing/everest-development/issues"
+  },
+  "homepage": "https://github.com/SerenaKing/everest-development#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "common-tags": "^1.8.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
